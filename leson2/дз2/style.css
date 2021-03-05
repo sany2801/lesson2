@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.line{
+width: 64px;
+height: 2px;
+background-color: black;
+margin: 22px auto;
+}
+.item{
+    width: 350px;
+display: inline-block;
+}
+.m-rl-33{
+    margin: 0 33px;
+}
+.itemImage{
+margin: 0 auto 27px;
+ border: 2px solid #FF8B38;
+ border-radius: 50%;
+ width: 70px;
+ height: 70px;
+ background-repeat: no-repeat;
+ background-position: center;
+
+}
+.lamp{
+    background-image: url(images/lamp.png);
+}
+
+.keybord{
+    background-image: url(images/keybord.png);
+}
+
+
+.sectionWrapper{
+    margin-bottom: 66px;
+}
+
+.lightning{
+    background-image: url(images/lightning.png);
+
+}
+.section{
+    text-align: center;
+    margin-top: 102px;
+}
+
+.discription{
+    font-size: 14px;
+    color: rgba(134, 135, 139, 1);
+}
+.itemTitle{
+    margin-bottom: 16px;
+}
+ .title{
+     font-size: 36px;
+ }
